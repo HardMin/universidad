@@ -34,7 +34,6 @@ Ejemplo:
     "vendedor": "Pepe",
     "monto": 1000
   },
-  ...
 ]
 ```
 
