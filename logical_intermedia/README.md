@@ -98,3 +98,10 @@ una operación matemática simple que el programa le asigne.
 
 Reciba un correo electrónico y verifique si contiene un "@" y un punto ".". Si
 no cumple, solicite el ingreso nuevamente usando un bucle while.
+
+## 16. Permitir entrada de usuarios y generar pdf
+
+Solicitar la edad y si es mayor a 18 años, permitir el acceso, si no, no
+permitir el acceso. Solicitar hasta que se ingrese 0 y generara un pdf
+con los usuarios permitidos y los no permitidos, y el total de usuarios
+permitidos y no permitidos.
