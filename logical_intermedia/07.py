@@ -14,9 +14,9 @@ def opciones(msj_1, msj_2):
             opcion = input(f"\n1: {msj_1}\n2: {msj_2}\n> ")
             if opcion == "1" or opcion == "2":
                 return opcion
-            print("Opción inválida. Por favor, ingrese 1 o 2.")
         except ValueError:
-            print("Opción inválida. Por favor, ingrese 1 o 2.")
+            pass
+        print("Opción inválida. Por favor, ingrese 1 o 2.")
 
 
 def agregar_cliente():
